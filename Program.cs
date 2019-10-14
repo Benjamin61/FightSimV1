@@ -14,6 +14,8 @@ namespace FightsimV1
 			Names.NameDecide();
 			Fighter A = new Fighter();
 			Fighter B = new Fighter();
+			
+			Console.ReadKey();
 		}
 		
 	}
